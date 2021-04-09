@@ -6,8 +6,8 @@ permalink: /about/
 
 
 ### "김남규"
-- Embedded > IoT > Big-Data > Technical-Singularity (touch)
-- Github: https://github.com/imadavid/     
+- Github : https://github.com/imadavid/     
+- Email : skipio0228@gmail.com
 
 <br/>
 
