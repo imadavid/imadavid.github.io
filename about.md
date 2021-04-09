@@ -30,7 +30,7 @@ permalink: /about/
 <br/>
 
 ### Job Skill
-- [하드웨어설계] AP/MCU 기반 임베디드 시스템 ex) Settop box, Tablet(Private)
+- [하드웨어] AP/MCU 기반 임베디드 시스템 설계  ex) Settop box, Tablet(Private)
 - [규격인증] 국내외 EMC/Safety 시험 및 인증진행
 - [시뮬레이션] Thermal, EMC(PI/SI/EMI/ESD/RI)
 - [머신러닝] 3G 가속센서를 활용하여 2D CNN 기반 Baseline 모델 개발
