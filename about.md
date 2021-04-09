@@ -12,7 +12,7 @@ permalink: /about/
 
 <br/>
 
-## Work Experience
+### Work Experience
 
 - 2017.07 ~            : 위니아딤채
 - 2017.02 ~ 2017.05    : EXCELLO(스타트업)
