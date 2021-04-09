@@ -15,7 +15,6 @@ permalink: /about/
 ### Work Experience
 
 - 2017.07 ~            : 위니아딤채
-
 - 2017.02 ~ 2017.05    : EXCELLO(스타트업)
 - 2009.05 ~ 2016.12    : 휴맥스
 - 2008.11 ~ 2009.03    : Full IP 미디어(창업)
@@ -31,8 +30,8 @@ permalink: /about/
 <br/>
 
 ### Job Skill
-- Embedded System Hardware 설계 : AP/MCU 기반
-  *
+* Embedded System Hardware 설계 : AP/MCU 기반
+  -
     +
       +
 - 
