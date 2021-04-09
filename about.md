@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Career Embedded Device, IoT, Big Data, Technical Singularity-Touch
+title: Embedded, IoT, Big Data, Technical Singularity-Touch
 permalink: /about/
 ---
 
-### 
-Some information about you!
+### "김남규"
+- Github: hppts://github.com/imadavid/
+- Email: skipio0228@gmail.com     
 
-### More Information
+### Work Experience
 
-A place to include any other types of information that you'd like to include about yourself.
+- 2017.07 ~        : 위니아딤채
 
 ### Contact me
 
