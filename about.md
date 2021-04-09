@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Career] Embedded Device, IoT, Big Data, Technical Singularity-Touch
+title: Career Embedded Device, IoT, Big Data, Technical Singularity-Touch
 permalink: /about/
 ---
 
