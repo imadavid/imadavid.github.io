@@ -13,7 +13,6 @@ permalink: /about/
 <br/>
 
 ### Work Experience
-
 - 2017.07 ~            : 위니아딤채
 - 2017.02 ~ 2017.05    : EXCELLO(스타트업)
 - 2009.05 ~ 2016.12    : 휴맥스
@@ -22,11 +21,16 @@ permalink: /about/
 - 2003.03 ~ 2007.06    : 아이큐브
 - 2000.09 ~ 2003.01    : 태광산업(오디오연구소)
 
+### Education
 
 
 
-<br/>
+### Certificated
 
-### Contact me
 
-[skipio0228@gmail.com](mailto:email@domain.com)
+### Skill
+
+
+### Project 
+
+#### <b> 1)
