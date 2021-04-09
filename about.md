@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
+<br/>
 
 ### "김남규"
-- Github : https://github.com/imadavid/     
+- Github : [https://github.com/imadavid/](https://github.com/imadavid/)     
 - Email : skipio0228@gmail.com
 
 <br/>
