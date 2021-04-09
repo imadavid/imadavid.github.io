@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Embedded, IoT, Big Data, Technical Singularity-Touch
+title: Embedded>IoT>Big-Data>Technical-Singularity
 permalink: /about/
 ---
 
