@@ -30,7 +30,7 @@ permalink: /about/
 <br/>
 
 ### Job Skill
-- [AP/MCU 기반 Embedded System Hardware 개발] Settop box, Tablet
+#####- [AP/MCU 기반 Embedded System Hardware 개발] Settop box, Tablet
 - [규격인증] 국내외 EMC/Safety 시험 및 인증진행
 - [CAE 해석] Thermal, EMC(PI/SI/EMI/ESD/RI)
 - Machine Learning - 3G 가속센서를 활용하여 2D CNN 기반 Baseline 모델 개발
