@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: [Career] Embedded Device, IoT, Big Data, Technical Singularity-Touch
 permalink: /about/
 ---
 
+### 
 Some information about you!
 
 ### More Information
