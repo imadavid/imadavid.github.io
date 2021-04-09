@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 ### "김남규"
-- Github: hppts://github.com/imadavid/
-- Email: skipio0228@gmail.com     
+- Github: https://github.com/imadavid/     
 
 ### Work Experience
 
@@ -14,4 +13,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[skipio0228@gmail.com](mailto:email@domain.com)
