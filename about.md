@@ -9,11 +9,13 @@ permalink: /about/
 - Embedded > IoT > Big-Data > Technical-Singularity (touch)
 - Github: https://github.com/imadavid/     
 
+<br/>
 
 ### Work Experience
 
 - 2017.07 ~        : 위니아딤채
 
+<br/>
 
 ### Contact me
 
