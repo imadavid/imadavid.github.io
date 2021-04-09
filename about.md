@@ -31,8 +31,8 @@ permalink: /about/
 
 ### Job Skill
 - Embedded System Hardware 설계 : AP/MCU 기반
-  -
-    -
+ -
+  - 
 - 
 - 
 - 
