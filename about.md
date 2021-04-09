@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Embedded>IoT>Big-Data>Technical-Singularity
+title: About
 permalink: /about/
 ---
 
 ### "김남규"
+- Embedded > IoT > Big-Data > Technical-Singularity(touch)
 - Github: https://github.com/imadavid/     
 
 ### Work Experience
