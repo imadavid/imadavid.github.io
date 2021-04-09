@@ -30,13 +30,13 @@ permalink: /about/
 <br/>
 
 ### Job Skill
-- ##[AP/MCU 기반 Embedded System Hardware 개발] Settop box, Tablet
+- [AP/MCU 기반 임베디드 하드웨어 개발] Settop box, Tablet
 - [규격인증] 국내외 EMC/Safety 시험 및 인증진행
 - [CAE 해석] Thermal, EMC(PI/SI/EMI/ESD/RI)
-- Machine Learning - 3G 가속센서를 활용하여 2D CNN 기반 Baseline 모델 개발
-- 빅데이터분석 - Brightics(삼성SDS)기반으로 대량의 냉장고 VoC 데이터(약 20만건) 분석 및 시각화  
-- ARMboot, Linux
-- Assembly, VHDL, Python
+- [머신러닝] 3G 가속센서를 활용하여 2D CNN 기반 Baseline 모델 개발
+- [빅데이터 분석] Brightics(삼성SDS)기반으로 대량의 냉장고 VoC 데이터(약 20만건) 분석 및 시각화  
+- [Loader] ARMboot, Linux
+- [Language] Assembly, VHDL, Python
 
 <br/>
 
